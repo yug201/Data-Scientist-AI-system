@@ -268,7 +268,8 @@ Step 1.2 completed. Please proceed to the next step.
 
 ```
 
-![output image](combined_power_demand_plots.png)
+![image](https://github.com/user-attachments/assets/fbe01961-5754-44c8-bf56-ff9b29513d68)
+
 ```python
 
 # Step 1.3: EDA - Relationship between Power Demand and Weather Variables (tempmax, tempmin, humidity)
@@ -312,7 +313,8 @@ Step 1.3 completed. Please proceed to the next step.
 
 ```
 
-![output image](power_demand_vs_weather.png)
+![image](https://github.com/user-attachments/assets/b3496d02-210e-4241-a636-40cd320639c1)
+
 ```python
 
 # Step 1.4: EDA - Exploring Temperature Range and Combined Weather Effects on Power Demand
@@ -376,7 +378,8 @@ Step 1.4 completed. Please proceed to the next step.
 
 ```
 
-![output image](combined_weather_effects.png)
+![image](https://github.com/user-attachments/assets/a3b6a43c-89a7-4316-9354-7f6dfcce5b57)
+
 ```python
 
 print("The code has run multiple times with errors. invalid syntax (<string>, line 6) Please change the strategy or consider dropping this task.")
@@ -389,7 +392,8 @@ The code has run multiple times with errors. invalid syntax (<string>, line 6) P
 
 ```
 
-![output image](power_demand_by_dayofweek.png)
+![image](https://github.com/user-attachments/assets/f26bb87b-8b3e-41fb-9edf-381d953e4c8c)
+
 ```python
 
 import pandas as pd
@@ -467,7 +471,8 @@ Step 2.2 completed. Please proceed to the next step.
 
 ```
 
-![output image](power_demand_log_transformation.png)
+![image](https://github.com/user-attachments/assets/e1f18303-d1c7-42f3-a308-ced02453aa7f)
+
 ```python
 
 import pandas as pd
